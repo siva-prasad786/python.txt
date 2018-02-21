@@ -17,3 +17,8 @@ for n in range(10):
     if n==6:
         break
     print(n)
+
+def Number(n):
+    print(n)
+n=input("Enter your text:")
+
